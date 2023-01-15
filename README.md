@@ -1,4 +1,7 @@
+[![calmastorm.github.io](./website_logo.png)](calmastorm.github.io)
+
 # 🏠Home
+
 Hi, my name is Charles and I am a undergraduate student at the University of Birmingham studying computer science.
 
 
