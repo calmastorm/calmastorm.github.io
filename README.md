@@ -30,3 +30,4 @@ Here are some useful web-tools, not only about technologies, but also about heal
 | 4    | [Inkarnate](https://inkarnate.com/)                  | Online map making tool.                                      | 01/15/2023 |
 | 5    | [OBS](https://obsproject.com/download?webuid=q6k37g) | A free and open source software for video recording and live streaming. | 01/15/2023 |
 | 6    | [Textgradients](https://textgradients.com/)          | Generator of CSS code of the text with gradient colors.      | 01/15/2023 |
+| 7    | [FlamingText](https://eu2.flamingtext.com/)          | Generator of image for text.                                 | 01/15/2023 |
