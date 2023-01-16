@@ -33,3 +33,4 @@ Here are some useful web-tools, not only about technologies, but also about heal
 | 5    | [OBS](https://obsproject.com/download?webuid=q6k37g) | A free and open source software for video recording and live streaming. | 01/15/2023 |
 | 6    | [Textgradients](https://textgradients.com/)          | Generator of CSS code of the text with gradient colors.      | 01/15/2023 |
 | 7    | [FlamingText](https://eu2.flamingtext.com/)          | Generator of image for text.                                 | 01/15/2023 |
+| 8    | [Interface in Game](https://interfaceingame.com/)    | It provides a fantastic collection of interfaces in games.   | 01/16/2023 |
