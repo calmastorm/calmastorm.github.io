@@ -10,11 +10,13 @@ Hi, my name is Charles and I am a undergraduate student at the University of Bir
 
 These are the resources that I find useful, maybe you can also make good use of them. The table is still being added...
 
-| No.  | Title                                                        | Categories                     | Language | Date added |
-| ---- | ------------------------------------------------------------ | ------------------------------ | -------- | ---------- |
-| 1    | [Artificial Intelligence Subset](https://www.imangodoc.com/5834.html) | `AI` `popular science`         | Chinese  | 01/15/2023 |
-| 2    | [Basic Git and Github Tutorial](https://www.cnblogs.com/yaoxiaowen/p/8227873.html) | `Git` `Github` `Tutorial`      | Chinese  | 01/15/2023 |
-| 3    | [What is tensorflow?](https://developer.oracle.com/learn/technical-articles/what-is-tensorflow) | `Tensorflow` `popular science` | English  | 01/15/2023 |
+| No.  | Title                                                        | Categories                       | Language | Date added |
+| ---- | ------------------------------------------------------------ | -------------------------------- | -------- | ---------- |
+| 1    | [Artificial Intelligence Subset](https://www.imangodoc.com/5834.html) | `AI` `popular science`           | Chinese  | 01/15/2023 |
+| 2    | [Basic Git and Github Tutorial](https://www.cnblogs.com/yaoxiaowen/p/8227873.html) | `Git` `Github` `Tutorial`        | Chinese  | 01/15/2023 |
+| 3    | [What is TensorFlow?](https://developer.oracle.com/learn/technical-articles/what-is-tensorflow) | `TensorFlow` `popular science`   | English  | 01/15/2023 |
+| 4    | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | `TensorFlow` `Tutorial` `Github` | English  | 01/16/2023 |
+| 5    | [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course#tensorflow-installation-and-setup-the-environment) | `TensorFlow` `Tutorial` `Github` | English  | 01/16/2023 |
 
 
 
