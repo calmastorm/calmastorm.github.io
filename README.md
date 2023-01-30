@@ -17,6 +17,7 @@ These are the resources that I find useful, maybe you can also make good use of 
 | 3    | [What is TensorFlow?](https://developer.oracle.com/learn/technical-articles/what-is-tensorflow) | `TensorFlow` `popular science`   | English  | 01/15/2023 |
 | 4    | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | `TensorFlow` `Tutorial` `Github` | English  | 01/16/2023 |
 | 5    | [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) | `TensorFlow` `Tutorial` `Github` | English  | 01/16/2023 |
+| 6    | [Git Tutorial](https://backlog.com/git-tutorial/cn/contents/) | `Git` `Github` `Tutorial`        | Chinese  | 01/30/2023 |
 
 
 
