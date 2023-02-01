@@ -1,4 +1,4 @@
-[![calmastorm.github.io](./website_logo.png)](https://calmastorm.github.io/)
+[![calmastorm.github.io](./img/website_logo.png)](https://calmastorm.github.io/)
 
 # 🏠Home
 
