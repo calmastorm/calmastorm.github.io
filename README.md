@@ -25,13 +25,15 @@ These are the resources that I find useful, maybe you can also make good use of 
 
 Here are some useful web-tools, not only about technologies, but also about health, games, and even screen recording and more.
 
-| No.  | Name                                                 | Description                                                  | Date added |
-| ---- | ---------------------------------------------------- | ------------------------------------------------------------ | ---------- |
-| 1    | [Paper Digest](https://www.paper-digest.com/)        | It translates papers into your first language for faster reading. | 01/15/2023 |
-| 2    | [Overleaf](https://www.overleaf.com/)                | Online LaTex editor and publishing tool, it supports collaboration. | 01/15/2023 |
-| 3    | [TDEE Calculator](https://tdeecalculator.net/)       | It calculates your TDEE according to some equations, helps you to decide how much to eat and exercise. | 01/15/2023 |
-| 4    | [Inkarnate](https://inkarnate.com/)                  | Online map making tool.                                      | 01/15/2023 |
-| 5    | [OBS](https://obsproject.com/download?webuid=q6k37g) | A free and open source software for video recording and live streaming. | 01/15/2023 |
-| 6    | [Textgradients](https://textgradients.com/)          | Generator of CSS code of the text with gradient colors.      | 01/15/2023 |
-| 7    | [FlamingText](https://eu2.flamingtext.com/)          | Generator of image for text.                                 | 01/15/2023 |
-| 8    | [Interface in Game](https://interfaceingame.com/)    | It provides a fantastic collection of interfaces in games.   | 01/16/2023 |
+| No.  | Name                                                         | Description                                                  | Date added |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1    | [Paper Digest](https://www.paper-digest.com/)                | It translates papers into your first language for faster reading. | 01/15/2023 |
+| 2    | [Overleaf](https://www.overleaf.com/)                        | Online LaTex editor and publishing tool, it supports collaboration. | 01/15/2023 |
+| 3    | [TDEE Calculator](https://tdeecalculator.net/)               | It calculates your TDEE according to some equations, helps you to decide how much to eat and exercise. | 01/15/2023 |
+| 4    | [Inkarnate](https://inkarnate.com/)                          | Online map making tool.                                      | 01/15/2023 |
+| 5    | [OBS](https://obsproject.com/download?webuid=q6k37g)         | A free and open source software for video recording and live streaming. | 01/15/2023 |
+| 6    | [Textgradients](https://textgradients.com/)                  | Generator of CSS code of the text with gradient colors.      | 01/15/2023 |
+| 7    | [FlamingText](https://eu2.flamingtext.com/)                  | Generator of image for text.                                 | 01/15/2023 |
+| 8    | [Interface in Game](https://interfaceingame.com/)            | It provides a fantastic collection of interfaces in games.   | 01/16/2023 |
+| 9    | [AltTab](https://alt-tab-macos.netlify.app/)                 | It brings the power of Windows’s “alt-tab” window switcher to macOS. | 02/20/2023 |
+| 10   | [Monitor Control](https://github.com/MonitorControl/MonitorControl) | It allows you to controls your external display brightness and volume and shows native OSD. | 02/20/2023 |
